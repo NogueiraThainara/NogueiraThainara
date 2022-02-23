@@ -1,7 +1,7 @@
 ### Olá, Sou a Thainara Nogueira ❤
 
 
-- 👩‍💻 | Assistant developed 
+- 👩‍💻 | Web developed assistant 
 <hr>
 <div align="center">
   <a href="https://github.com/NogueiraThainara">
