@@ -2,6 +2,7 @@
 
 
 - 👩‍💻 | Web developed assistant 
+- 👩‍💻 | Future data scientist 
 <hr>
 <div align="center">
   <a href="https://github.com/NogueiraThainara">
@@ -10,10 +11,12 @@
 </div>
 <div align="center"><br>
   <img align="center" alt="thainara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="thainara-php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
   <img align="center" alt="thainara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="thainara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  <img align="center" alt="thainara-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="thainara-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  
 </div>
 <hr>
 <div align="center"> 
